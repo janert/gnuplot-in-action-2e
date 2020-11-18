@@ -1,0 +1,6 @@
+set xdata time                      # turn on time series mode!
+
+set timefmt "%b"                    # input format: Jan, Feb, ...
+set xtics format "%b"               # output format: Jan, Feb, ...
+
+plot [][0:10] "months" u 3:2 w lp   # plot, using the third column!

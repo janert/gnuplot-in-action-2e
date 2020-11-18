@@ -1,0 +1,20 @@
+# Day   Hits
+# host=main
+0       101
+1       100
+2       102
+3       103
+
+
+# host=staging
+0        25
+1        26
+2        27
+3        28
+
+
+# host=test
+0         5
+1         4
+2         3
+3         2

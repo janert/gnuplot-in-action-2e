@@ -1,0 +1,17 @@
+# Source: http://www.sjsu.edu/faculty/watkins/longevity.htm
+# Columns: weight[gram]	heartrate[1/minute]	lifetime[years]
+Human		90000	60	70
+Cat		2000	150	15
+Dog		5000	90	15
+Hamster		60	450	3 
+# Chicken		1500	275	15
+Monkey		5000	190	15
+Horse		1200000	44	40
+Cow		800000	65	22
+Pig		150000	70	25
+Rabbit		1000	205	9 
+Elephant	5000000	30	70
+# Giraffe		900000	65	20
+LargeWhale   120000000	20	80
+Rat	     300	350	?
+Wolf	     40000	80	?

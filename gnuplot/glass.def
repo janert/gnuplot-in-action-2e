@@ -1,0 +1,5 @@
+set datafile separator ','
+
+data = "glass.data"                               # Name of input data file
+names = "ID RfIx Na Mg Al Si K Ca Ba Fe Type"     # Column names
+types = "Bldg1 Bldg2 Vhcl1 Vhcl2 Cont Tbl Lamp"   # Types of glass (col 11)
